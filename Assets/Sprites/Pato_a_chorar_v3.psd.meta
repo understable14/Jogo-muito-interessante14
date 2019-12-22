@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: c983028a67bd0784ba2e7c3a12af2923
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2134717461571643150
+    second: Pato_a_chorar_v3_0
+  - first:
+      213: 702703919334397892
+    second: Pato_a_chorar_v3_1
+  - first:
+      213: -5885723120242699299
+    second: Pato_a_chorar_v3_2
+  - first:
+      213: -3034829310601267412
+    second: Pato_a_chorar_v3_3
+  - first:
+      213: -5559602275642194235
+    second: Pato_a_chorar_v3_4
+  - first:
+      213: -5235368194006402015
+    second: Pato_a_chorar_v3_5
+  - first:
+      213: 6871248215294136023
+    second: Pato_a_chorar_v3_6
+  - first:
+      213: 7126767953852889357
+    second: Pato_a_chorar_v3_7
+  - first:
+      213: 7679875192592926994
+    second: Pato_a_chorar_v3_8
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pato_a_chorar_v3_0
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1189
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e350c36cec46f8f49b919622c0bcebce
+      internalID: 2134717461571643150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato_a_chorar_v3_1
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 540
+        width: 248
+        height: 318
+      alignment: 9
+      pivot: {x: 0.8907139, y: 0.9438953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1888caffd93a6af4987e2356eb7e4ffe
+      internalID: 702703919334397892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato_a_chorar_v3_2
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 726
+        width: 274
+        height: 240
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0.31059214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3046004b4c5222a4bb7bcbc855cb665a
+      internalID: -5885723120242699299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato_a_chorar_v3_3
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 779
+        width: 99
+        height: 128
+      alignment: 9
+      pivot: {x: 0.7416684, y: 0.9205599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b552853e9e724b04cb1d8a5f0b6cb630
+      internalID: -3034829310601267412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato_a_chorar_v3_4
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 494
+        width: 354
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7449370fbda10a45b8058d0726635b3
+      internalID: -5559602275642194235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato_a_chorar_v3_5
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 720
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af82a0f851546a94986eb5c36e4790f2
+      internalID: -5235368194006402015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato_a_chorar_v3_6
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 579
+        width: 62
+        height: 103
+      alignment: 9
+      pivot: {x: 0.15269814, y: 0.8948815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03118e2fdf30bc54da9cfcdfbcf7dd5b
+      internalID: 6871248215294136023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato_a_chorar_v3_7
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 538
+        width: 84
+        height: 143
+      alignment: 9
+      pivot: {x: 0.4145537, y: 0.91279364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd5ea235c6c64f43a3a666cced737e5
+      internalID: 7126767953852889357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato_a_chorar_v3_8
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 271
+        width: 308
+        height: 145
+      alignment: 9
+      pivot: {x: 0.48446417, y: 0.392749}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3ed53563ca83b46baf0abc9f4dcfdf
+      internalID: 7679875192592926994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
