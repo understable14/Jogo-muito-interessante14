@@ -6868,6 +6868,59 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.43, y: 0.38}
   m_EdgeRadius: 0
+--- !u!1 &1441656313
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1441656315}
+  - component: {fileID: 1441656314}
+  m_Layer: 0
+  m_Name: BossAttacks
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1441656314
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1441656313}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb023a58f5feccc488c36d6aed7a864e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mira: {fileID: 1379995103488673821, guid: 6f2cec056807c514482ba26c2f749a83, type: 3}
+  currentMira: {fileID: 0}
+  Boss: {fileID: 697065467}
+  miraPosition: {fileID: 1866751722346744825, guid: 6f2cec056807c514482ba26c2f749a83,
+    type: 3}
+  delay: 1
+  miraOn: 0
+  Firing: 0
+  cooldown: 0.9
+  bassCooldown: 0.9
+--- !u!4 &1441656315
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1441656313}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 13
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1452626097
 GameObject:
   m_ObjectHideFlags: 0

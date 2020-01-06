@@ -22,6 +22,7 @@ public class slashAtack : MonoBehaviour
         {
             var enemyDamage = col.GetComponentInChildren<EnemyDamage>();
             _enemiesInRange.Add(enemyDamage);
+        
         }
     }
 

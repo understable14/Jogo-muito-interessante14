@@ -62,14 +62,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\BossDamage.cs" />
-    <Compile Include="Assets\HealthBar.cs" />
+    <Compile Include="Assets\BossBombs.cs" />
+    <Compile Include="Assets\Scripts\BossDamage.cs" />
     <Compile Include="Assets\Scripts\BulletDestroy.cs" />
     <Compile Include="Assets\Scripts\dash.cs" />
     <Compile Include="Assets\Scripts\EnemyCol.cs" />
     <Compile Include="Assets\Scripts\EnemyDamage.cs" />
     <Compile Include="Assets\Scripts\EnemyShoot.cs" />
     <Compile Include="Assets\Scripts\EnemySpawner.cs" />
+    <Compile Include="Assets\Scripts\HealthBar.cs" />
     <Compile Include="Assets\Scripts\Hp.cs" />
     <Compile Include="Assets\Scripts\Hp_Drain.cs" />
     <Compile Include="Assets\Scripts\Movement.cs" />
