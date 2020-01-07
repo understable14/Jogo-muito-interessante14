@@ -14,6 +14,7 @@ public class dash : MonoBehaviour
     public Vector3 dashtarget;
     public float dashSpeed;
     public PointAndShoot pointAndShoot;
+    public Cooldown_Manager cdBar;
     public Rigidbody2D rb;
     public bool mouseClone;
     public static bool Upgraded = false;
@@ -39,9 +40,9 @@ public class dash : MonoBehaviour
                     {
                         Vector3 difference = dashtarget - rb.transform.position;
                         transform.Translate(difference.x * Time.deltaTime * dashSpeed, difference.y * Time.deltaTime * dashSpeed, 0, Space.World);
-                        
 
-                        dashTime -= Time.deltaTime;
+                    
+                    dashTime -= Time.deltaTime;
                         
 
                     }
@@ -62,6 +63,7 @@ public class dash : MonoBehaviour
         {
             
             cooldown -= Time.deltaTime;
+            cdBar.SetBar(cooldown / cdTime);
             if (cooldown <= 0)
             {
                 coolingDown = false;
