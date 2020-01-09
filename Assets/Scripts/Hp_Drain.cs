@@ -9,7 +9,8 @@ public class Hp_Drain : MonoBehaviour
     public Player_HP_Bar Player_HP_Bar;
 
 
-    public float PlayerHp = 14;
+    public float PlayerHp;
+    public float MaxHp;
 
     
 
@@ -31,7 +32,7 @@ public class Hp_Drain : MonoBehaviour
     {
         _BulletDamage = BulletDamage;
         PlayerHp -= BulletDamage;
-        Player_HP_Bar.setBar(PlayerHp / 14);
+        Player_HP_Bar.setBar(PlayerHp / MaxHp);
         if (PlayerHp <= 0)
         {
             Destroy(gameObject);
