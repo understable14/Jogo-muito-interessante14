@@ -14,7 +14,7 @@ public class EnemyDamage : MonoBehaviour
     public static float UpgradeDmgMultiplier = 1;
     public float BulletDamage;
     
-    
+    //Bom dia
     
 
 

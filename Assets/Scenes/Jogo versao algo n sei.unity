@@ -2200,10 +2200,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mira: {fileID: 1379995103488673821, guid: 6f2cec056807c514482ba26c2f749a83, type: 3}
   currentMira: {fileID: 0}
+  explosion: {fileID: 4317662839734588791, guid: f1f91fb666fc1544babad774a1db69ce,
+    type: 3}
   Boss: {fileID: 697065467}
   miraPosition: {fileID: 1866751722346744825, guid: 6f2cec056807c514482ba26c2f749a83,
     type: 3}
-  delay: 1
+  delay: 1.5
   miraOn: 0
   Firing: 0
   cooldown: 0.9

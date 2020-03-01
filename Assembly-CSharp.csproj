@@ -62,10 +62,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\BossBombs.cs" />
-    <Compile Include="Assets\Cooldown_Manager.cs" />
+    <Compile Include="Assets\Scripts\BossBombs.cs" />
     <Compile Include="Assets\Scripts\BossDamage.cs" />
     <Compile Include="Assets\Scripts\BulletDestroy.cs" />
+    <Compile Include="Assets\Scripts\Cooldown_Manager.cs" />
     <Compile Include="Assets\Scripts\dash.cs" />
     <Compile Include="Assets\Scripts\EnemyCol.cs" />
     <Compile Include="Assets\Scripts\EnemyDamage.cs" />
